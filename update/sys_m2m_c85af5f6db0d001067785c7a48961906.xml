@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_m2m">
+    <sys_m2m action="INSERT_OR_UPDATE">
+        <from_table>task</from_table>
+        <m2m_from_field>task_from</m2m_from_field>
+        <m2m_from_label>Tasks_from</m2m_from_label>
+        <m2m_table>x_58872_needit_m2m_tasks_tasks</m2m_table>
+        <m2m_to_field>task_to</m2m_to_field>
+        <m2m_to_label>Tasks_to</m2m_to_label>
+        <sys_class_name>sys_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-15 02:00:58</sys_created_on>
+        <sys_id>c85af5f6db0d001067785c7a48961906</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_m2m_tasks_tasks</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_m2m_c85af5f6db0d001067785c7a48961906</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-15 02:00:58</sys_updated_on>
+        <to_table>task</to_table>
+    </sys_m2m>
+</record_update>
